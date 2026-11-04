@@ -16,23 +16,14 @@ Este projeto já vem **100% configurado** com suporte para caminhos relativos (`
 No terminal da tua máquina local (na pasta do projeto), executa os seguintes comandos:
 
 ```bash
-# 1. Inicializar o repositório git (se ainda não estiver inicializado)
-git init
-
-# 2. Adicionar todos os ficheiros
+# 1. Adicionar os ficheiros corrigidos
 git add .
 
-# 3. Criar o primeiro commit
-git commit -m "Publicação inicial: Aventura dos Pronomes 5.º Ano"
+# 2. Criar o commit
+git commit -m "Corrigir deploy: atualizar workflow do GitHub Actions e package-lock.json"
 
-# 4. Definir a branch principal como main
-git branch -M main
-
-# 5. Associar ao teu repositório remoto (substitui pelo teu utilizador e repositório)
-git remote add origin https://github.com/O-TEU-UTILIZADOR/aventura-dos-pronomes.git
-
-# 6. Enviar para o GitHub
-git push -u origin main
+# 3. Enviar para o GitHub
+git push
 ```
 
 ### Passo 3: Ativar o GitHub Pages
