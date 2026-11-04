@@ -1,0 +1,6 @@
+{
+  "name": "Aventura dos Pronomes - Português 5.º Ano",
+  "description": "Plataforma interativa e acessível de Português (5.º ano) para o estudo dos pronomes pessoais, possessivos e demonstrativos, com explicações simples, apoio à leitura e múltiplos jogos pedagógicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
